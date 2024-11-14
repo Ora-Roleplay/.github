@@ -74,8 +74,6 @@ just bringing fresh ideas to the table, **we welcome your contributions**.
 2. Create a branch for your changes (`feature/feature-name`).
 3. Open a **Pull Request** with a detailed description of your contributions.
 
-📄 For more information, please refer to our [Contribution Guide](../CONTRIBUTING.md).
-
 ---
 
 ## 🔧 Support
@@ -84,8 +82,6 @@ If you run into technical issues or discover bugs in-game, feel free to:
 
 - **Open an issue** on GitHub.
 - Reach out to our support team on **Discord**.
-
-🔒 For vulnerabilities or security concerns, please refer to our [Security Guide](../SECURITY.md).
 
 ---
 
