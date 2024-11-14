@@ -37,7 +37,7 @@ repository contains all the resources, scripts, and configurations necessary to 
 
 ### 🚀 Technologies
 
-- **Backend**: `Lua`, `JavaScript`, `MySQL`
+- **Backend**: `Lua`, `Java`, `JavaScript`, `TypeScript`, `SQL`
 - **Frontend**: `TypeScript`, `React`
 - **Infrastructure**: `Docker`, `Kubernetes`, `Helm`
 - **Data Management**: `Postgres`, `MariaDB`, `MongoDB`, `Redis`
